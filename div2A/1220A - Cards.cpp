@@ -10,9 +10,9 @@ int main() {
         return 0;
     }
     for (int i = 0; i < n; i++) {
-        if (int(str[i]) == 122)
+        if (int(str[i]) == 122) // z in ASCII code
             ++zero;
-        else if (int(str[i]) == 110)
+        else if (int(str[i]) == 110) // n in ASCII code
             ++one;
     }
     while (one--) cout << "1 ";
