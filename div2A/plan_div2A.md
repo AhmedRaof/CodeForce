@@ -6,7 +6,7 @@
 | 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 | Done |
 | 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 | Done |
 | 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 | Done |
-| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 |  |
+| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 | Done |
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |  |
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  |
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
