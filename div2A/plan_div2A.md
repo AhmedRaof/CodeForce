@@ -27,12 +27,12 @@
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | Done |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | Done |
 | 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | Done |
-| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
+| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 | Done |
+| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | Done |
+| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | Done |
+| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | Done |
+| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | Done |
+| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | Done |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
 | 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
 | 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
