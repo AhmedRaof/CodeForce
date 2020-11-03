@@ -33,12 +33,12 @@
 | 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | Done |
 | 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | Done |
 | 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | Done |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
-| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
+| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | Done |
+| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | Done |
+| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | Done |
+| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | Done |
+| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | Done |
+| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 | Done |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
 | 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
