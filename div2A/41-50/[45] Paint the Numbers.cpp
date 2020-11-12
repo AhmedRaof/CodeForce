@@ -4,18 +4,6 @@
 #include<vector>
 using namespace std;
 
-int isPrime(int element) {
-	bool flag = true;
-	int m = element / 2;
-	for (int i = 2; i <= m; i++) {
-		if (element % i == 0) {
-			flag = false;
-			break;
-		}
-	}
-	return flag;
-}
-
 int main() {
 	int n;
 	cin >> n;
