@@ -54,11 +54,11 @@
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 | Done |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 | Done |
 | 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 | Done |
-| 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
-| 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
-| 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
-| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
-| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
+| 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 | Done |
+| 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 | Done |
+| 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | Done |
+| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 | Done |
+| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | Done |
 | 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |  |
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
