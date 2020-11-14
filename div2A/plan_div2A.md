@@ -53,7 +53,7 @@
 | 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | Done |
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 | Done |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 | Done |
-| 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
+| 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 | Done |
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
