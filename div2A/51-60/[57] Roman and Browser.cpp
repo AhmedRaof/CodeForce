@@ -1,6 +1,14 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+
+/*
+	Idea: Search from 1 to n once, each time searching from the current i (1<=i<=n) to n, 
+	skipping ignore when it is k, the rest is 1 e++, -1 is s++, Each i will find a |es|,
+	which can be compared with max. Note that i should also search forward.
+	When it finds multiples of k, it is ignored. The rest is 1 for e++, and -1 for s++.
+*/
+
 int main()
 {
 	int n, k, a[105], e = 0, s = 0, max = 0, i, j, t;
