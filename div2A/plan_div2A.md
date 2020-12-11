@@ -65,10 +65,10 @@
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 | Done |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | Done |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
-| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
-| 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
-| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
-| 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 |  |
+| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 | Done |
+| 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 | Not Found |
+| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | Done |
+| 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 | Done |
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 | |
 | 71 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 | Done |
 | 72 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1100 | Done |
@@ -77,7 +77,7 @@
 | 75 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 | Done |
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 | Done |
 | 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 | Done |
-| 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 |  |
+| 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 | Done |
 | 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
 | 80 | [Gotta Catch Em' All!](https://codeforces.com/problemset/problem/757/A) | 1100 |  |
 | 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 |  |
