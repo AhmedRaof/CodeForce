@@ -66,7 +66,7 @@
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | Done |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 | Done |
-| 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 | Not Found |
+| 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 | |
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | Done |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 | Done |
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 | |
