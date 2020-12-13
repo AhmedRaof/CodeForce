@@ -3,6 +3,10 @@
 #include<algorithm>
 using namespace std;
 
+/*
+    we will first add 5 euro and then the rest of the bills will be 1 dollar
+*/
+
 int main()
 {
     long long n, d, e, ans = 0;
