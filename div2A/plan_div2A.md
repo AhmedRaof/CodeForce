@@ -95,8 +95,8 @@
 | 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 | Done |
 | 94 | [Tritonic Iridescence](https://codeforces.com/problemset/problem/957/A) | 1300 | Done |
 | 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 | Done |
-| 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 |  |
-| 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 |  |
-| 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 |  |
+| 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 | Done |
+| 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 | Done |
+| 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 | Done |
 | 99 | [Cloning Toys](https://codeforces.com/problemset/problem/922/A) | 1400 | Done |
 | 100 | [A Prank](https://codeforces.com/problemset/problem/1062/A) | 1400 | Done |
