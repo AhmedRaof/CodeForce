@@ -78,13 +78,13 @@
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 | Done |
 | 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 | Done |
 | 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 | Done |
-| 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
+| 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 | Done |
 | 80 | [Gotta Catch Em' All!](https://codeforces.com/problemset/problem/757/A) | 1100 | Done |
-| 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 |  |
-| 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 |  |
-| 83 | [Snacktower](https://codeforces.com/problemset/problem/767/A) | 1200 |  |
-| 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 |  |
-| 85 | [Row](https://codeforces.com/problemset/problem/982/A) | 1200 |  |
+| 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 | Done |
+| 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 | Done |
+| 83 | [Snacktower](https://codeforces.com/problemset/problem/767/A) | 1200 | Done |
+| 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 | Done |
+| 85 | [Row](https://codeforces.com/problemset/problem/982/A) | 1200 | Done |
 | 86 | [Alex and broken contest](https://codeforces.com/problemset/problem/877/A) | 1200 | Done |
 | 87 | [Jamie and Alarm Snooze](https://codeforces.com/problemset/problem/916/A) | 1200 | Done |
 | 88 | [Vladik and flights](https://codeforces.com/problemset/problem/743/A) | 1200 | Done |
