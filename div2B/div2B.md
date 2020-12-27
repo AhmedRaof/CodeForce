@@ -15,8 +15,8 @@
 | 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 | Done |
 | 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 | Done |
 | 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 | Done |
-| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 |  |
-| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 |  |
+| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 | Done |
+| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 | Done |
 | 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 |  |
 | 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 |  |
 | 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 |  |
